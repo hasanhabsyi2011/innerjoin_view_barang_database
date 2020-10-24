@@ -1,0 +1,1 @@
+# innerjoin_view_barang_database
